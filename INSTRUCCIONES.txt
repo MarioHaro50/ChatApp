@@ -1,0 +1,4 @@
+Instalamos las siguientes dependencias:
+  'npm i @react-navigation/native @react-navigation/stack react-native-gifted-chat'
+  'expo install firebase expo-constants dotenv react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view'
+Creamos un .env donde guardamos todas nuestras credenciales de Firebase
